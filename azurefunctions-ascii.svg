@@ -1,0 +1,52 @@
+<svg width="720" viewBox="0 0 720 600"
+  xmlns="http://www.w3.org/2000/svg" 
+  xmlns:xlink="http://www.w3.org/1999/xlink" >
+  <title>Azure Functions ASCII art</title>
+  <desc>Orginal ASCII by Azure Functions team, SVG by @marcduiker.</desc>
+  <style>
+    .lightning1 { font: 2em Consolas; fill:#FBF500; }
+    .lightning2 { font: 2em Consolas; fill:#797C00; }
+    .bracketleft { font: 2em Consolas; fill:#007F7E; }
+    .bracketright { font: 2em Consolas; fill:#007F7E; }
+  </style>
+  <!-- lightning -->
+  <rect width="720" height="600" fill="#000" />
+  <text x="350" y="100" class="lightning1">%%%</text>
+  <text x="403" y="100" class="lightning2">%%%</text>
+  <text x="330" y="140" class="lightning1">%%%</text>
+  <text x="383" y="140" class="lightning2">%%%</text>
+  <text x="310" y="180" class="lightning1">%%%</text>
+  <text x="363" y="180" class="lightning2">%%%</text>
+  <text x="290" y="220" class="lightning1">%%%</text>
+  <text x="343" y="220" class="lightning2">%%%</text>
+  <text x="290" y="220" class="lightning1">%%%</text>
+  <text x="343" y="220" class="lightning2">%%%</text>
+  <text x="270" y="260" class="lightning1">%%%</text>
+  <text x="323" y="260" class="lightning2">%%%%%%%%</text>
+  <text x="250" y="300" class="lightning1">%%%%%%%</text>
+  <text x="373" y="300" class="lightning2">%%%</text>
+  <text x="335" y="340" class="lightning1">%</text>
+  <text x="353" y="340" class="lightning2">%%%</text>
+  <text x="315" y="380" class="lightning1">%</text>
+  <text x="333" y="380" class="lightning2">%%</text>
+  <text x="315" y="420" class="lightning1">%</text>
+  <text x="333" y="420" class="lightning2">%</text>
+  <text x="295" y="460" class="lightning1">%</text>
+  <text x="313" y="460" class="lightning2">%</text>
+  <text x="295" y="500" class="lightning2">%</text>
+  <!-- brackets -->
+  <text x="230" y="180" class="bracketleft">@</text>
+  <text x="490" y="180" class="bracketright">@</text>
+  <text x="190" y="220" class="bracketleft">@@</text>
+  <text x="510" y="220" class="bracketright">@@</text>
+  <text x="130" y="260" class="bracketleft">@@@</text>
+  <text x="550" y="260" class="bracketright">@@@</text>
+  <text x="90" y="300" class="bracketleft">@@</text>
+  <text x="585" y="300" class="bracketright">@@</text>
+  <text x="130" y="340" class="bracketleft">@@</text>
+  <text x="550" y="340" class="bracketright">@@</text>
+  <text x="170" y="380" class="bracketleft">@@</text>
+  <text x="510" y="380" class="bracketright">@@</text>
+  <text x="210" y="420" class="bracketleft">@@</text>
+  <text x="470" y="420" class="bracketright">@@</text>
+</svg>

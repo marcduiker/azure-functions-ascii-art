@@ -19,12 +19,14 @@ The image(s) in this repo are intended for personal use only!
                 %
 ```
 
+### SVG (made by hand 😵)
+![](azurefunctions-ascii.svg)
 
-### Black background (png)
+### PNG (black background)
 ![](azurefunctions-ascii-blackbg.png)
 
 
-### Transparent background (png)
+### PNG (transparent background)
 ![](azurefunctions-ascii-transparentbg.png)
 
 ### The reason why this repo exists 😅
