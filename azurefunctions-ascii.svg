@@ -6,11 +6,11 @@
   <style>
     .lightning1 { font: 2em Consolas; fill:#FBF500; }
     .lightning2 { font: 2em Consolas; fill:#797C00; }
-    .bracketleft { font: 2em Consolas; fill:#007F7E; }
-    .bracketright { font: 2em Consolas; fill:#007F7E; }
+    .bracket { font: 2em Consolas; fill:#007F7E; }
+    .rect { fill: #000; opacity:1;}
   </style>
   <!-- lightning -->
-  <rect width="720" height="600" fill="#000" />
+  <rect width="720" height="600" class="rect" />
   <text x="350" y="100" class="lightning1">%%%</text>
   <text x="403" y="100" class="lightning2">%%%</text>
   <text x="330" y="140" class="lightning1">%%%</text>
@@ -35,18 +35,18 @@
   <text x="313" y="460" class="lightning2">%</text>
   <text x="295" y="500" class="lightning2">%</text>
   <!-- brackets -->
-  <text x="230" y="180" class="bracketleft">@</text>
-  <text x="490" y="180" class="bracketright">@</text>
-  <text x="190" y="220" class="bracketleft">@@</text>
-  <text x="510" y="220" class="bracketright">@@</text>
-  <text x="130" y="260" class="bracketleft">@@@</text>
-  <text x="550" y="260" class="bracketright">@@@</text>
-  <text x="90" y="300" class="bracketleft">@@</text>
-  <text x="585" y="300" class="bracketright">@@</text>
-  <text x="130" y="340" class="bracketleft">@@</text>
-  <text x="550" y="340" class="bracketright">@@</text>
-  <text x="170" y="380" class="bracketleft">@@</text>
-  <text x="510" y="380" class="bracketright">@@</text>
-  <text x="210" y="420" class="bracketleft">@@</text>
-  <text x="470" y="420" class="bracketright">@@</text>
+  <text x="230" y="180" class="bracket">@</text>
+  <text x="490" y="180" class="bracket">@</text>
+  <text x="190" y="220" class="bracket">@@</text>
+  <text x="510" y="220" class="bracket">@@</text>
+  <text x="130" y="260" class="bracket">@@@</text>
+  <text x="550" y="260" class="bracket">@@@</text>
+  <text x="90" y="300" class="bracket">@@</text>
+  <text x="585" y="300" class="bracket">@@</text>
+  <text x="130" y="340" class="bracket">@@</text>
+  <text x="550" y="340" class="bracket">@@</text>
+  <text x="170" y="380" class="bracket">@@</text>
+  <text x="510" y="380" class="bracket">@@</text>
+  <text x="210" y="420" class="bracket">@@</text>
+  <text x="470" y="420" class="bracket">@@</text>
 </svg>
