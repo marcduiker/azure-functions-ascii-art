@@ -3,12 +3,29 @@
 
 The image(s) in this repo are intended for personal use only!
 
-### Black background
+### ASCII
+
+```
+                  %%%%%%
+                 %%%%%%
+            @   %%%%%%    @
+          @@   %%%%%%      @@
+       @@@    %%%%%%%%%%%    @@@
+     @@      %%%%%%%%%%        @@
+       @@         %%%%       @@
+         @@      %%%       @@
+           @@    %%      @@
+                %%
+                %
+```
+
+
+### Black background (png)
 ![](azurefunctions-ascii-blackbg.png)
 
 
-### Transparent background
+### Transparent background (png)
 ![](azurefunctions-ascii-transparentbg.png)
 
-### Background
+### The reason why this repo exists 😅
 [#2222](https://github.com/Azure/azure-functions-core-tools/issues/2222)
